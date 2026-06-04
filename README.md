@@ -5,4 +5,5 @@ Unfortunately, the indexing will not work on the split PDF recaps here (split be
 
 # Content and Style
 Motivation: "An L3 cache for the lectures and script"
+
 The recaps are handwritten and feature all formal definitions taught also explaining the intuition behind key concepts. This way, you have access to just the essentials to add to your cheat sheet in the Lernphase, but if you need an explanation of a current topic or how to apply it, this is also given via diagrams, example proofs, and occasionally, topical meme templates. For the current recaps, many examples are sourced from the lectures and my labs. 
